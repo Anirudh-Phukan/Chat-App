@@ -1,9 +1,10 @@
 # Chat-App
 
-Used the Open Weather Map API to create a simple weather application in android studio using Flutter.
-
+A modern messaging app where users can sign up and log in to chat made using Flutter and powered by Firebase.
 ## Features
-* The application can show the live weather data in the current location of the device as well as the weather for any other city.
+* Used Firebase authentication to register and sign in users.
+* Used ListViews to build scrolling views.
+* Used Firebase Cloud Firestore to store and retrieve data in realtime with the help of the StreamBuilder widget.
 
 ## Screenshots
 
